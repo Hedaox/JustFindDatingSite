@@ -1,0 +1,25 @@
+{
+  "name": "justfinddatingsite",
+  "version": "1.0.0",
+  "description": "The PERFECT dating site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hedaox/JustFindDatingSite.git"
+  },
+  "keywords": [
+    "dating",
+    "matchmaking",
+    "romance",
+    "relationships"
+  ],
+  "author": "Hedaox",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Hedaox/JustFindDatingSite/issues"
+  },
+  "homepage": "https://github.com/Hedaox/JustFindDatingSite#readme"
+}
