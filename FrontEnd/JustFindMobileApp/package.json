@@ -1,0 +1,15 @@
+{
+	"name":"JustFindMobileApp",
+	"version":"0.0.1",
+	"private":true,
+	"scripts":
+	{
+		"start":"node node_modules/react-native/local-cli/cli.js start"
+	},
+	"dependencies":
+	{
+		"body-parser":"^1.20.1",
+		"express":"^4.18.2",
+		"react-native":"0.70.6"
+	}
+}

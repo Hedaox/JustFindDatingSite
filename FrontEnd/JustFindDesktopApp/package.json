@@ -1,0 +1,14 @@
+{
+  "name": "justfinddesktopapp",
+  "version": "1.0.0",
+  "description": "Desktop App for JustFind dating site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "author": "Hedaox",
+  "devDependencies": {
+    "electron": "^22.0.0"
+  }
+}
